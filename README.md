@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...creation of isos and tweaks for windows 10
 - 🌱 I’m currently learning ... creation of isos and tweaks for windows 10
 - 💞️ I’m looking to collaborate on ...creation of isos and tweaks for windows 10
-- 📫 How to reach me ...oliverarthur61@gmail.com
+- ...oliverarthur61@gmail.com
 
 <!---
 1Oliverr/1Oliverr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
